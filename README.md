@@ -1,4 +1,4 @@
-# Blogmaker
+# Kiernan Geoghegan
 
 This is an ultra-simple self-hosted blog publishing solution.
 
