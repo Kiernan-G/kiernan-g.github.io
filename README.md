@@ -1,11 +1,15 @@
 # Kiernan Geoghegan
 
+Personal blogging site, made using blogmaker, an open source tool by Vitalik Buterin.
+
+
 This is an ultra-simple self-hosted blog publishing solution.
 
 ### Dependencies
 
 * pandoc
 * rsync
+    * Not needed for publishing on github pages
 
 ### How to use
 
@@ -26,3 +30,4 @@ For the server, the simplest setup is to use any VPS, `apt install apache2`, mak
 ### Misc
 
 Credit to https://hackmd.io for CSS styles.
+@vbuterin for building and making his blogmaker open source.
