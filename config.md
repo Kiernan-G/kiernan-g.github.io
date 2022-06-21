@@ -1,5 +1,4 @@
 [title]: <> (Kiernan Geoghegan)
-[icon]: <> (http://vitalik.ca/images/icon.png)
 [server]: <> (github.com)
 [website_root]: <> (/var/www/html)
 [posts_directory]: <> (general)
