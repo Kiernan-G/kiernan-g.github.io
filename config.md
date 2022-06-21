@@ -1,4 +1,5 @@
 [title]: <> (Kiernan Geoghegan)
+[icon]: <> (http://kiernan-g.github.io/images/icon.png)
 [server]: <> (github.com)
 [website_root]: <> (/var/www/html)
 [posts_directory]: <> (general)
