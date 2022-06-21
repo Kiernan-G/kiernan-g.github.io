@@ -2,6 +2,4 @@
 [icon]: <> (http://kiernan-g.github.io/images/icon.png)
 [server]: <> (github.com)
 [website_root]: <> (/var/www/html)
-[posts_directory]: <> (general)
-[homepage_category]: <> (general)
 [domain]: <> (https://kiernan-g.github.io/kiernan-g.github.io)
