@@ -4,4 +4,4 @@
 [website_root]: <> (/var/www/html)
 [posts_directory]: <> (general)
 [homepage_category]: <> (general)
-[domain]: <> (https://kiernan-g.github.io)
+[domain]: <> (https://kiernan-g.github.io/kiernan-g.github.io)

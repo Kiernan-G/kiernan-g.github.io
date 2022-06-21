@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+<channel>
+  <title>Kiernan Geoghegan</title>
+  <link>https://kiernan-g.github.io/</link>
+  <description>Kiernan Geoghegan</description>
+  <image>
+      <url>http://vitalik.ca/images/icon.png</url>
+      <title>Kiernan Geoghegan</title>
+      <link>https://kiernan-g.github.io/</link>
+  </image>
+
+<item>
+<title>Testing</title>
+<link>https://kiernan-g.github.io/general/2022/6/20/testing.html</link>
+<guid>https://kiernan-g.github.io/general/2022/6/20/testing.html</guid>
+<pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+<description></description>
+</item>
+
+
+<item>
+<title>Hello world</title>
+<link>https://kiernan-g.github.io/general/2020/10/24/hello.html</link>
+<guid>https://kiernan-g.github.io/general/2020/10/24/hello.html</guid>
+<pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
+<description></description>
+</item>
+
+</channel>
+</rss>
