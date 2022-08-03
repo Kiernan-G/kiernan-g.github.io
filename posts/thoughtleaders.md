@@ -1,9 +1,35 @@
 [category]: <> (General)
-[date]: <> (2022/6/21)
+[date]: <> (2022/6/28)
 [title]: <> (Thoughts on Thought Leaders)
 
-I was first introduced to the figure of the thought leader through the writings of Anand Giridharadas through a freshman-year writing class, long before I had taken the plunge into online spaces the likes of "crypto twitter".
+Often I find that in certain online spaces the figure of the "thought leader" is often lauded as an exemplary citizen of the epistemic commons, someone to aspire to be, to look to for guidance, and to recieve information from about new issues and topics. For a few reasons exposure to this type of figure always left me with a bad taste in my mouth, but the most prominent of which stems from my first exposure to this concept of the "thought leader". 
 
-Giridharadas' thesis revolves around the two contrasting figures of the "thought leader" and the "critic". 
+Long before I had taken my first foray into an online space like "crypto twitter" I had encountered the works of Anand Giridharadas and his writings "Winner Takes All: The Elite Charade of Changing the World". Althought the book of course touches on a number of topics concerning the ever-growing state of economic inequality that we find in our world today, he also speaks about his views on the critic of the thought leader, more specifically the role that this person plays in an intellectual space when contrasted with the critic. 
 
-Giridharadas examines the figure of the "thought leader" to the critical lens as a
+Now without ever having been exposed to this writing it is reasonable to say that someone deemed by a broader community to be a thought leader is more often than not someone to be admired with generally respected opinions and views. Because, well, how would they have acquired this reputation and following in the first place if they did not possess some esteemed qualities. Whether it's your favorite shitcoin's biggest microinfluencer, insisting to his following every other day that "we're headed to the moon boyz", or your favorite twitter threadooor pumping out a new thinkpiece on the latest in ZK tech every month, they've acquired a following for a reason. They must serve a positive role on the general intellectual state of our community?
+
+Right? Well Giridharadas presents some contrasting ideas. 
+
+In his writing he presents the idea that these figures are limited in the content that they can truly touch on in a meaningful manner, due to both the nature in which they make their living and how they came to achieve their audience. They are both at the mercy of the mob and those who pay their bills, who provide them writing and speaking engagements for compensation. And due to the nature of this relationship between the parties they must keep their discussions rather surface level. Never should they touch on the real issues at play in a situation, never should they attack the deep-rooted causes of the problem, as it often would lead back to the power players who pay their bills. Instead they should consistently produce a set of digestible, yet ultimately inconsequential set of solutions for the problems that they speak on which face their audience. 
+
+Within the writing Anand tells the story of a lady named Amy Cuddy, who made her living giving speeches about female empowerment in the workplace. Althought Cuddy, a seasoned and well studied academic, knew that there were deep-seeded issues that truly caused the workplace inequality she was fighting against, she could not address them. She was unable to attack the C-suite executives and high-level managers who propagated the issues that she was providing solutions against, as they were the ones who paid her bills. So instead of directing the women in the audience against these people, trying to elicit real change, she focused the content of her talks on "power poses" in the workplace. Ways women could change their body language to empower themselves with greater confidence and fight workplace oppression. A great joke, but for a thought leader, this is somewhat typical.
+
+Giridharadas contrasts this adored figure of the thought leader with that of the critic. Someone unafraid to speak their mind, criticize the powers that be, and poke directly at the real problems that face people today. However, they feel no perogative to offer solutions for these problems. No way is paying them to offer solutions, and to be frank, the type of problems that they choose to focus on are a bit hard to solve. There is no easy solution for decades of gender or racial inequality. Their actions are definitely not appreciated by those in power, and they certainly don't make those without the power feel better about themselves. Yet, their discussion helps unite the common person's mind and steers them towards the right direction. Although there is no easy digestible solution, their criticism might start the small roll down the hill of eventual change. 
+
+Although obviously I'm speaking in different magnitudes here, I've noticed a great deal of glorification for the thought leader figure in the crypto space. People praise them, blindly follow them, succumb to the hand-wavey solutions they present. And it ends up burning the common person a lot.
+
+I began thinking about this when looking at applications for a specific firm and they stated that they were looking for thought leaders. Someone who is very active in the epistemic commons of the space, posting threads and writeups, sharing their thoughts on current events. So I took a look at the CEO's twitter to gauge what they truly wanted out of a thought leader. Do they want someone with a large following posting surface-level takes and hand wavey solutions, or someone unafraid to call out the bad things they saw in the space. 
+
+And would you guess what? They were shilling random NFT projects. Specifically STEPN, which I in particular have no problem with. But if we're gonna call a ponzi a ponzi, which I hope we're able to do at this point, STEPN fits the bill. The yield comes from new people buying in to the ecosystem and while I'm sure early adopters like Mr. CEO here made a killing, it's gonna diminish rather quickly for the regular person hoping to make a killing just by walkinga round the block. 
+
+What I particularly found dishonest about this situation was how he was unable to accept that STEPN was a ponzi, simply because he had some bags and a loyalty to the project, which I think we see a lot of here. It was quite easy to see that Terra's economics were completely unsustainable, but when you have Do Kwon telling people that "your size is not size" and every lunatic is telling you to "have fun being poor" it's a bit hard for the criticism to seep through, especially to the retail investor who's not as tuned in to the space. 
+
+It's definitely not specific to crypto twitter, as the thought leader is a figure that arises in any intellectual space, but I think the heavy tie to personal capital exacerbates the effect in this space. Surface level thought leadership tends to drown out well-done analysis and criticism. That's how we end up with Luna, with rug projects that aren't worth any, and that's how we end up with retail getting burned again. 
+
+I truly hope that we can all learn to show a bit more distrust to the thought leader in the future. Personally, the lures of this type of role is tempting, but personally I'd rather be a critic. 
+
+I might not be on the pump end of the pump and dump, or benefitting from a quick payment for some shilling, but I'd rather keep the moral weight of retail losses off myself. 
+
+
+
+Eh conclusion but I just wanted to write about this, thought it was a good non-technical piece to start the blog off.
